@@ -5,7 +5,7 @@
  * @returns {number} The sum of a and b
  */
 
-//test comment
+//test comment1
 
 function add(a, b) {    // This function takes two numbers and returns their sum
     return a + b;
